@@ -2,7 +2,7 @@
 
 public class AccessAllyQuestions {
     public static void main(String[] args){
-        //System.out.println(problem1(180));
+        System.out.println(problem1(180));
         int[] arr1 = {5,5,3,1,2,11,5,12};
         int[] arr2 = {2,4,9,2,3,9,7,3};
         System.out.println(problem2(arr1, arr2));
